@@ -1,1 +1,1 @@
-These are my conf files. There are many like them, but these onee are mine.
+These are my conf files. There are many like them, but these ones are mine.
